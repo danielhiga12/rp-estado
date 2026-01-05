@@ -1,1 +1,16 @@
+{
+  "name": "rp-estado",
+  "version": "1.0.0",
+  "main": "src/bot/index.js",
+  "scripts": {
+    "start": "node src/bot/index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "mongoose": "^8.0.0",
+    "express": "^4.19.2",
+    "dotenv": "^16.4.5",
+    "cors": "^2.8.5"
+  }
+}
 
