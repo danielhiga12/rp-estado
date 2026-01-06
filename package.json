@@ -7,10 +7,9 @@
   },
   "dependencies": {
     "discord.js": "^14.15.3",
-    "mongoose": "^8.0.0",
-    "express": "^4.19.2",
     "dotenv": "^16.4.5",
-    "cors": "^2.8.5"
+    "express": "^4.19.2",
+    "cors": "^2.8.5",
+    "fs-extra": "^11.1.1"
   }
 }
-
